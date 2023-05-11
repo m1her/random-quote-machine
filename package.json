@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@videsk/tailwind-random-color": "^0.2.0-beta",
     "autoprefixer": "10.4.14",
     "next": "13.4.1",
     "postcss": "8.4.23",
